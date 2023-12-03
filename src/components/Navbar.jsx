@@ -29,7 +29,7 @@ const Navbar = () => {
               spy={true}
               smooth={true}
               duration={500}
-              className="hover:text-brightColor transition-all cursor-pointer"
+              className="hover:text-brightColor transition-all cursor-pointer "
             >
               Home
             </Link>
